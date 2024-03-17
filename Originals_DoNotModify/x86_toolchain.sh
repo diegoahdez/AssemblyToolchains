@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Diego Hernandez
-# March 17 2024
+# March 17/2024
 # ITSC-204, ISS
 # Default settings
 VERBOSE=false
